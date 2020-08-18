@@ -1,0 +1,6 @@
+.idea
+.idea/
+*.iml
+application.properties
+pom.xml
+*.log
